@@ -1,8 +1,4 @@
 
-{
-    "user" : { type:63f70cac04830809b695f77b , ref: 'User' },
-      "flight" : { type: 63f7118b1a9bcb0c91f7c80d, ref: 'Flight' }
- }
  --To Register
     path-api/register
     method-POST
